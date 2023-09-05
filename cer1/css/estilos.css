@@ -1,0 +1,36 @@
+#fila3{
+  margin: auto;
+  padding: 70px;
+}
+#fila2{
+    
+    margin: auto;
+    padding-bottom: 70px;
+}
+
+#imagen{
+object-fit:cover;
+  width:75%;
+  height:auto;
+}
+
+
+#fila4{
+    background-color: #D7EBCF;
+    margin: auto;
+    padding: 70px;
+}
+#miBoton:hover { 
+    background-color: #D7EBCF;
+}
+
+#miBoton2:hover { 
+    background-color: #D7EBCF;
+}
+#botonenviar{
+    padding: 25px;
+
+}
+.navbar-expand{
+    background-color:#D7EBCF ;
+}
